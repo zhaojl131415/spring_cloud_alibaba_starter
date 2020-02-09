@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/external-skywalking/external-skywalking.iml" filepath="$PROJECT_DIR$/external-skywalking/external-skywalking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-consumer/nacos-consumer.iml" filepath="$PROJECT_DIR$/nacos-consumer/nacos-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-consumer-feign/nacos-consumer-feign.iml" filepath="$PROJECT_DIR$/nacos-consumer-feign/nacos-consumer-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-consumer-feign-sentinel/nacos-consumer-feign-sentinel.iml" filepath="$PROJECT_DIR$/nacos-consumer-feign-sentinel/nacos-consumer-feign-sentinel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-provider/nacos-provider.iml" filepath="$PROJECT_DIR$/nacos-provider/nacos-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-provider/rocketmq-provider.iml" filepath="$PROJECT_DIR$/rocketmq-provider/rocketmq-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_cloud_alibaba_starter.iml" filepath="$PROJECT_DIR$/spring_cloud_alibaba_starter.iml" />
+    </modules>
+  </component>
+</project>
